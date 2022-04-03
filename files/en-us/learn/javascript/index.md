@@ -61,6 +61,7 @@ This topic contains the following modules, in a suggested order for working thro
   - : In JavaScript, most things are objects, from core JavaScript features like strings and arrays to the browser APIs built on top of JavaScript. You can even create your own objects to encapsulate related functions and variables into efficient packages. The object-oriented nature of JavaScript is important to understand if you want to go further with your knowledge of the language and write more efficient code, therefore we've provided this module to help you. Here we teach object theory and syntax in detail, look at how to create your own objects, and explain what JSON data is and how to work with it.
 - [Asynchronous JavaScript](/en-US/docs/Learn/JavaScript/Asynchronous)
   - : In this module we take a look at asynchronous JavaScript, why it is important, and how it can be used to effectively handle potential blocking operations such as fetching resources from a server.
+  - 
 - [Client-side web APIs](/en-US/docs/Learn/JavaScript/Client-side_web_APIs)
   - : When writing client-side JavaScript for web sites or applications, you won't go very far before you start to use APIs — interfaces for manipulating different aspects of the browser and operating system the site is running on, or even data from other web sites or services. In this module we will explore what APIs are, and how to use some of the most common APIs you'll come across often in your development work.
 
@@ -76,3 +77,4 @@ This topic contains the following modules, in a suggested order for working thro
   - : An excellent resource for aspiring web developers — Learn JavaScript in an interactive environment, with short lessons and interactive tests, guided by automated assessment. The first 40 lessons are free, and the complete course is available for a small one-time payment.
 - [Coding math](https://www.youtube.com/user/codingmath)
   - : An excellent series of video tutorials to teach the math you need to understand to be an effective programmer, by [Keith Peters](https://twitter.com/bit101).
+
